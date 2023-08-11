@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Javi
 - 👀 I’m interested in learning more and more about programming
-- 🌱 I’m currently learning basic programming 
+- 🌱 I’m currently learning web developing and mobile computing
 - 💞️ I’m looking to collaborate on web developing 
 - 📫 How to reach me: @JaviSanDia1 on Twitter
 
