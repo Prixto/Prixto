@@ -5,14 +5,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3Yy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1YzMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNiAyLjA2IDAgMCAxLTIuMDYzLTIuMDY1YTIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0ek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/javier-felipe-santana-díaz-926836288/) 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail&logoColor=white)](mailto:javiersantana002@hotmail.com)
 
-Hello and welcome to my GitHub profile! As a software engineer, this is my online space to share my projects and collaborations, and I hope you'll find something that interests you or that can be useful for your own work. Feel free to explore my repositories and leave me comments or suggestions.
+I'm a Software Engineer, and this space serves as a hub for my personal projects, collaborations, and technical explorations. Whether you're here out of curiosity or searching for something useful, I hope you find something valuable in my repositories.
+
+Feel free to browse through my work — feedback, questions, or suggestions are always welcome!
 
 ## 💫 About Me
 <img src="https://github-readme-stats.vercel.app/api?username=Prixto&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+🎓 I'm a Systems Engineer with a strong technical background and a growing professional focus on Cybersecurity and Web Development.
 
-🏢 I'm a **Software Engineer** passionate about **CyberSecurity, PenTesting, and Web development**.
+🔍 I've gained experience in internal audit automation, ethical hacking, and data homogenization projects, applying tools like FastAPI, Angular, Apache Spark, and MySQL to real-world challenges.
 
-🎓 I thrive on **continuous learning**, staying up-to-date with emerging technologies, and collaborating with teams to develop high-quality software.
+🧠 Passionate about continuous learning, I enjoy solving complex problems, exploring security vulnerabilities, and building robust, scalable systems — always with a mindset of curiosity, precision, and impact.
 
 ## 💻 Tech Stack
 
@@ -29,6 +32,7 @@ Hello and welcome to my GitHub profile! As a software engineer, this is my onlin
 
 ### 📚 Frameworks, Platforms & Libraries
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -54,8 +58,4 @@ Hello and welcome to my GitHub profile! As a software engineer, this is my onlin
 ### 💿 OS
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### ⚒️ Learning
 
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
