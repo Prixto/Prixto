@@ -8,7 +8,7 @@
 Hello and welcome to my GitHub profile! As a software engineer, this is my online space to share my projects and collaborations, and I hope you'll find something that interests you or that can be useful for your own work. Feel free to explore my repositories and leave me comments or suggestions.
 
 ## 💫 About Me
-<img src="https://github-readme-stats.vercel.app/api?username=alejandronoss1017&theme=dark&hide_border=false&include_all_commits=true&count_private=false" align="right" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prixto&theme=dark&hide_border=false&include_all_commits=true&count_private=false" align="right" alt="GitHub Stats" />
 
 🏢 I'm a **Software Engineer** passionate about **CyberSecurity, PenTesting, and Web development**.
 
