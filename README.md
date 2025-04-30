@@ -18,7 +18,7 @@ Hello and welcome to my GitHub profile! As a software engineer, this is my onlin
 
 ### 📖 Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandronoss1017&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" align="right" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prixto&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" align="right" alt="Most Used Languages" />
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
